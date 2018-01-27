@@ -2,7 +2,8 @@
 
 int main()
 {
-	if(isAwesome())
+	bool isAwesome = true;
+	if(isAwesome)
 		printf("caca");
 
 	return 0;
