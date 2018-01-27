@@ -1,5 +1,10 @@
 #include "defines.h"
 
+void isAwesome(bool awesomeness)
+{
+	return !awesomeness;
+}
+
 int main()
 {
 	bool isAwesome = true;
